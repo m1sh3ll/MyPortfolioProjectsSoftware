@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}|ToDoList.API\\ToDoList.API.csproj|e:\\projects\\csharp-php-python-java-portfolio-projects\\to-do-list-app\\to-do-list-api\\todolist.api\\todolist.api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}|ToDoList.API\\ToDoList.API.csproj|solutionrelative:todolist.api\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}|ToDoList.API\\ToDoList.API.csproj|e:\\projects\\csharp-php-python-java-portfolio-projects\\to-do-list-app\\to-do-list-api\\todolist.api\\todolist.api\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}|ToDoList.API\\ToDoList.API.csproj|solutionrelative:todolist.api\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}|ToDoList.API\\ToDoList.API.csproj|e:\\projects\\csharp-php-python-java-portfolio-projects\\to-do-list-app\\to-do-list-api\\todolist.api\\todolist.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}|ToDoList.API\\ToDoList.API.csproj|solutionrelative:todolist.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}|ToDoList.API\\ToDoList.API.csproj|e:\\projects\\csharp-php-python-java-portfolio-projects\\to-do-list-app\\to-do-list-api\\todolist.api\\todolist.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}|ToDoList.API\\ToDoList.API.csproj|solutionrelative:todolist.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}|ToDoList.API\\ToDoList.API.csproj|e:\\projects\\csharp-php-python-java-portfolio-projects\\to-do-list-app\\to-do-list-api\\todolist.api\\todolist.api\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}|ToDoList.API\\ToDoList.API.csproj|solutionrelative:todolist.api\\data\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}|ToDoList.API\\ToDoList.API.csproj|e:\\projects\\csharp-php-python-java-portfolio-projects\\to-do-list-app\\to-do-list-api\\todolist.api\\todolist.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}|ToDoList.API\\ToDoList.API.csproj|solutionrelative:todolist.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3db98ce8-14f0-4b05-9b6a-b9dbe8fa94ab}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "ToDoList.API\\Controllers\\TodoController.cs",
+              "ToolTip": "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "ToDoList.API\\Controllers\\TodoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:43:22.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoDbContext.cs",
+              "DocumentMoniker": "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\Data\\TodoDbContext.cs",
+              "RelativeDocumentMoniker": "ToDoList.API\\Data\\TodoDbContext.cs",
+              "ToolTip": "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\Data\\TodoDbContext.cs",
+              "RelativeToolTip": "ToDoList.API\\Data\\TodoDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:33:05.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".gitignore",
+              "DocumentMoniker": "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\.gitignore",
+              "RelativeDocumentMoniker": "ToDoList.API\\.gitignore",
+              "ToolTip": "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\.gitignore",
+              "RelativeToolTip": "ToDoList.API\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-19T14:21:36.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoList.API\\appsettings.json",
+              "ToolTip": "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\appsettings.json",
+              "RelativeToolTip": "ToDoList.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T14:16:22.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "ToDoList.API\\Models\\Todo.cs",
+              "ToolTip": "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\Models\\Todo.cs",
+              "RelativeToolTip": "ToDoList.API\\Models\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:16:16.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList.API\\Program.cs",
+              "ToolTip": "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\Program.cs",
+              "RelativeToolTip": "ToDoList.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:04:29.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
