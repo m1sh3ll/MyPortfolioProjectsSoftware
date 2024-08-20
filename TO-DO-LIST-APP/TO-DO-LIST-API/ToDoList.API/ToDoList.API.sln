@@ -3,7 +3,28 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.API", "ToDoList.API\ToDoList.API.csproj", "{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList.API", "ToDoList.API\ToDoList.API.csproj", "{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TO-DO-LIST-ANGULAR", "..\..\TO-DO-LIST-ANGULAR\", "{B0C9F95B-F959-40F2-A8F8-75F269726E37}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59724"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\TO-DO-LIST-ANGULAR\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59724\"
+		Debug.AspNetCompiler.Updateable = "false"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59724"
+		Release.AspNetCompiler.PhysicalPath = "..\..\TO-DO-LIST-ANGULAR\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59724\"
+		Release.AspNetCompiler.Updateable = "false"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59724"
+		SlnRelativePath = "..\..\TO-DO-LIST-ANGULAR\"
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +36,10 @@ Global
 		{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C9F95B-F959-40F2-A8F8-75F269726E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C9F95B-F959-40F2-A8F8-75F269726E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C9F95B-F959-40F2-A8F8-75F269726E37}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C9F95B-F959-40F2-A8F8-75F269726E37}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

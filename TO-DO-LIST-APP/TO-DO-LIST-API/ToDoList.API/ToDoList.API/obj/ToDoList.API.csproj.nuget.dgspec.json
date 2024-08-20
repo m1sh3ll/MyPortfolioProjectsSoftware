@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\ToDoList.API.csproj": {}
+    "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\ToDoList.API.csproj": {}
   },
   "projects": {
-    "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\ToDoList.API.csproj": {
+    "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\ToDoList.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\ToDoList.API.csproj",
+        "projectUniqueName": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\ToDoList.API.csproj",
         "projectName": "ToDoList.API",
-        "projectPath": "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\ToDoList.API.csproj",
+        "projectPath": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\ToDoList.API.csproj",
         "packagesPath": "C:\\Users\\michelle\\.nuget\\packages\\",
-        "outputPath": "E:\\PROJECTS\\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\obj\\",
+        "outputPath": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
