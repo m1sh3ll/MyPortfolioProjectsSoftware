@@ -2,7 +2,7 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>E:\PROJECTS\CSHARP-PHP-PYTHON-JAVA-PORTFOLIO-PROJECTS\TO-DO-LIST-APP\TO-DO-LIST-API\ToDoList.API\ToDoList.API\Properties\PublishProfiles\nerdommicro-001-site5 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>E:\PROJECTS\MyPortfolioProjectsSoftware\TO-DO-LIST-APP\TO-DO-LIST-API\ToDoList.API\ToDoList.API\Properties\PublishProfiles\nerdommicro-001-site5 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
     <Controller_SelectedScaffolderID>ApiControllerEmptyScaffolder</Controller_SelectedScaffolderID>
     <Controller_SelectedScaffolderCategoryPath>root/Common/Api</Controller_SelectedScaffolderCategoryPath>
   </PropertyGroup>

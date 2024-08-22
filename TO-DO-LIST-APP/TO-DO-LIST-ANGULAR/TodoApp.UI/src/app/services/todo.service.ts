@@ -8,9 +8,9 @@ import { TodosComponent } from '../components/todos/todos.component';
   providedIn: 'root'
 })
 export class TodoService {
-
-  baseApiUrl: string = "https://localhost:7087/";
-
+ 
+  //baseApiUrl: string = "https://localhost:7087/";
+  baseApiUrl: string = "https://nerdommicro-001-site5.ctempurl.com/";
   constructor(private http: HttpClient) {
   }
 
