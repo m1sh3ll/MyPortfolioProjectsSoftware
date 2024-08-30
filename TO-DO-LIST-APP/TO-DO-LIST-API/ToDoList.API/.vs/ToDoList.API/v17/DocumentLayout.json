@@ -3,10 +3,14 @@
   "WorkspaceRootPath": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0C9F95B-F959-40F2-A8F8-75F269726E37}|E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR|e:\\projects\\myportfolioprojectssoftware\\to-do-list-app\\to-do-list-angular\\todoapp.ui\\src\\app\\services\\todo.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}|ToDoList.API\\ToDoList.API.csproj|e:\\projects\\myportfolioprojectssoftware\\to-do-list-app\\to-do-list-api\\todolist.api\\todolist.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}|ToDoList.API\\ToDoList.API.csproj|solutionrelative:todolist.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0C9F95B-F959-40F2-A8F8-75F269726E37}|E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR|e:\\projects\\myportfolioprojectssoftware\\to-do-list-app\\to-do-list-angular\\todoapp.ui\\src\\app\\components\\todos\\todos.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C9F95B-F959-40F2-A8F8-75F269726E37}|E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR|e:\\projects\\myportfolioprojectssoftware\\to-do-list-app\\to-do-list-angular\\todoapp.ui\\src\\app\\services\\todo.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0C9F95B-F959-40F2-A8F8-75F269726E37}|E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR|e:\\projects\\myportfolioprojectssoftware\\to-do-list-app\\to-do-list-angular\\todoapp.ui\\src\\app\\components\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
@@ -47,10 +51,6 @@
       "AbsoluteMoniker": "D:0:0:{B0C9F95B-F959-40F2-A8F8-75F269726E37}|E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR|e:\\projects\\myportfolioprojectssoftware\\to-do-list-app\\to-do-list-angular\\todoapp.ui\\src\\app\\services\\todo.service.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}|ToDoList.API\\ToDoList.API.csproj|e:\\projects\\myportfolioprojectssoftware\\to-do-list-app\\to-do-list-api\\todolist.api\\todolist.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3FF4E4-5321-4508-8849-1E5C63DC88F0}|ToDoList.API\\ToDoList.API.csproj|solutionrelative:todolist.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0C9F95B-F959-40F2-A8F8-75F269726E37}|E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR|e:\\projects\\myportfolioprojectssoftware\\to-do-list-app\\to-do-list-angular\\todoapp.ui\\src\\app\\components\\navbar\\navbar.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
@@ -89,7 +89,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 196,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,6 +114,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "todo.service.ts",
+              "DocumentMoniker": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\services\\todo.service.ts",
+              "RelativeDocumentMoniker": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\services\\todo.service.ts",
+              "ToolTip": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\services\\todo.service.ts",
+              "RelativeToolTip": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\services\\todo.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-08-19T21:13:03.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "navbar.component.html",
               "DocumentMoniker": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\components\\navbar\\navbar.component.html",
               "RelativeDocumentMoniker": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\components\\navbar\\navbar.component.html",
@@ -121,25 +134,11 @@
               "RelativeToolTip": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\components\\navbar\\navbar.component.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-22T13:08:39.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T13:08:39.271Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "todos.component.css",
-              "DocumentMoniker": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\components\\todos\\todos.component.css",
-              "RelativeDocumentMoniker": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\components\\todos\\todos.component.css",
-              "ToolTip": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\components\\todos\\todos.component.css",
-              "RelativeToolTip": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\components\\todos\\todos.component.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-20T20:22:49.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\index.html",
               "RelativeDocumentMoniker": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\index.html",
@@ -147,25 +146,11 @@
               "RelativeToolTip": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-08-19T18:31:28.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T18:31:28.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "todo.service.ts",
-              "DocumentMoniker": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\services\\todo.service.ts",
-              "RelativeDocumentMoniker": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\services\\todo.service.ts",
-              "ToolTip": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\services\\todo.service.ts",
-              "RelativeToolTip": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\services\\todo.service.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-08-19T21:13:03.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "todo.model.ts",
               "DocumentMoniker": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\models\\todo.model.ts",
               "RelativeDocumentMoniker": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\models\\todo.model.ts",
@@ -177,7 +162,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList.API\\Program.cs",
+              "ToolTip": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\Program.cs",
+              "RelativeToolTip": "ToDoList.API\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:04:29.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "todos.component.css",
+              "DocumentMoniker": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\components\\todos\\todos.component.css",
+              "RelativeDocumentMoniker": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\components\\todos\\todos.component.css",
+              "ToolTip": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\components\\todos\\todos.component.css",
+              "RelativeToolTip": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\components\\todos\\todos.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-20T20:22:49.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "todos.component.html",
               "DocumentMoniker": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\components\\todos\\todos.component.html",
               "RelativeDocumentMoniker": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\components\\todos\\todos.component.html",
@@ -189,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "TodoController.cs",
               "DocumentMoniker": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "ToDoList.API\\Controllers\\TodoController.cs",
@@ -201,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Todo.cs",
               "DocumentMoniker": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\Models\\Todo.cs",
               "RelativeDocumentMoniker": "ToDoList.API\\Models\\Todo.cs",
@@ -209,12 +219,11 @@
               "RelativeToolTip": "ToDoList.API\\Models\\Todo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T14:16:16.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T14:16:16.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "app.routes.ts",
               "DocumentMoniker": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\app.routes.ts",
               "RelativeDocumentMoniker": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\app.routes.ts",
@@ -226,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "app.component.ts",
               "DocumentMoniker": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\app.component.ts",
               "RelativeDocumentMoniker": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\app.component.ts",
@@ -238,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "app.component.html",
               "DocumentMoniker": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\app.component.html",
               "RelativeDocumentMoniker": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\app.component.html",
@@ -250,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "app.component.css",
               "DocumentMoniker": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\app.component.css",
               "RelativeDocumentMoniker": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\app.component.css",
@@ -263,18 +272,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\Program.cs",
-              "RelativeDocumentMoniker": "ToDoList.API\\Program.cs",
-              "ToolTip": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-API\\ToDoList.API\\ToDoList.API\\Program.cs",
-              "RelativeToolTip": "ToDoList.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T14:04:29.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "todo.service.spec.ts",
               "DocumentMoniker": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\services\\todo.service.spec.ts",
               "RelativeDocumentMoniker": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\services\\todo.service.spec.ts",
@@ -354,8 +351,7 @@
               "RelativeToolTip": "ToDoList.API\\Migrations\\20240819160754_initial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T16:07:55.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T16:07:55.005Z"
             },
             {
               "$type": "Document",
@@ -407,7 +403,7 @@
               "RelativeDocumentMoniker": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\components\\todos\\todos.component.ts",
               "ToolTip": "E:\\PROJECTS\\MyPortfolioProjectsSoftware\\TO-DO-LIST-APP\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\components\\todos\\todos.component.ts",
               "RelativeToolTip": "..\\..\\TO-DO-LIST-ANGULAR\\TodoApp.UI\\src\\app\\components\\todos\\todos.component.ts",
-              "ViewState": "AQIAACIAAAAAAAAAAAAgwC4AAAAZAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-08-19T21:07:23.129Z",
               "EditorCaption": ""
