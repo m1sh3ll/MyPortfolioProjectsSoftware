@@ -219,7 +219,8 @@
               "RelativeToolTip": "ToDoList.API\\Models\\Todo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T14:16:16.95Z"
+              "WhenOpened": "2024-08-19T14:16:16.95Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -351,7 +352,8 @@
               "RelativeToolTip": "ToDoList.API\\Migrations\\20240819160754_initial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T16:07:55.005Z"
+              "WhenOpened": "2024-08-19T16:07:55.005Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
